@@ -1,4 +1,4 @@
-import PyMongo
+import pymongo
 from pymongo import MongoClient
 
 url = "mongodb+srv://admin:admin@cluster0.trf3y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
